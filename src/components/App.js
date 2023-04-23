@@ -13,6 +13,7 @@ function App() {
       <About img = "https://via.placeholder.com/215" alt = "blog logo">
         <p>{blogData.about}</p>
       </About>
+      
     </div>
   );
 }
